@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </p>
  
 ### Hi there, I'm Arya 👋- 
