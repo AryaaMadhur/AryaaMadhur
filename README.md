@@ -2,7 +2,7 @@
 
 - 🔭 I just started my 'Geospatial' open source project
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other GeoSpatial Developers
+- 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Geography and Books
 
@@ -27,9 +27,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-
-
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
