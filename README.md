@@ -35,5 +35,3 @@
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="arya-madhur-b384361ba"><a class="LI-simple-link" href='https://de.linkedin.com/in/arya-madhur-b384361ba?trk=profile-badge'>Arya Madhur</a></div>
 
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1SCCvhv3Tn3acV3EeY91dGxCdLuvSPGCH" width="640" height="480"></iframe>
