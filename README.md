@@ -8,7 +8,7 @@
 - 🔭 I just started my 'Geospatial' open source project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Geography and Books
 
 <br />
