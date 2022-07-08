@@ -5,10 +5,8 @@
  
 ### Hi there, I'm Arya 👋- 
 
-- 🔭 I just started my 'Geospatial' open source project
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m always looking to collaborate with other Developers
 - ⚡ Fun fact: I love Geography and Books
 
 <br />
@@ -25,13 +23,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="AryaaMadhur's GitHub Stats" src="https://github-readme-stats-eta-nine.vercel.app/api?username=AryaaMadhur&show_icons=true&hide_border=true" />
-
-</details>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="arya-madhur-b384361ba"><a class="LI-simple-link" href='https://de.linkedin.com/in/arya-madhur-b384361ba?trk=profile-badge'>Arya Madhur</a></div>
 
